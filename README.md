@@ -3,8 +3,6 @@
 
 - 💬 Ask me about **Ma7moud.m.selmy1@gmail.com**
 
-- 📫 How to reach me **Ma7moud.m.selmy1@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
