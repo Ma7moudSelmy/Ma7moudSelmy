@@ -7,9 +7,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mahmoudselmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoudselmy" height="30" width="40" /></a>
-<a href="https://fb.com/ma7moudselmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ma7moudselmy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ma7moudselmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ma7moudselmy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahmoud-selmy-862162335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoud-selmy-862162335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/share/1efvuhvecn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1efvuhvecn/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@ma7moudselmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ma7moudselmy" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/ma7moudselmy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/ma7moudselmy1" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
