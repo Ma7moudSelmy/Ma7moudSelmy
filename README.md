@@ -1,31 +1,44 @@
-# وَلَقَدْ مَنَنَّا عَلَيْكَ مَرَّةً أُخْرَىٰٓ  
-### A passionate Mobile Application developer from Egypt
+<h1 align="center" dir="rtl">
+  وَلَقَدْ مَنَنَّا عَلَيْكَ مَرَّةً أُخْرَىٰٓ  
+  <br/>
+  <small>(طه - 37)</small>
+</h1>
+
+<p align="center">
+  <em>A passionate Mobile Application developer from Egypt</em>
+</p>
 
 ---
 
-![Chrome Dino Game GIF](https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif)  
-[جرب لعبة الديناصور لما يبقى النت فاصل »](https://chromedino.com)
+<!-- لعبة الديناصور GIF متحركة -->
+<p align="center">
+  <a href="https://Ma7moudSelmy.github.io/dino-runner" target="_blank">
+    <img src="https://media.giphy.com/media/YaOxRsmrv9IeA/giphy.gif" alt="Play Dino Runner" width="400px"/>
+    <br/>
+  </a>
+</p>
 
 ---
 
-## 🛠 Technologies
-- Flutter  
-- Dart  
+## 🛠 Languages & Tools
 
----
-
-## 🚀 Projects
-- [NTI Final Project](https://github.com/Ma7moudSelmy/NTI-final-project)  
-  مشروع Flutter بسيط للتوليجن وإدارة كلمات المرور
+<p align="center">
+  <img alt="Dart"          src="https://img.shields.io/badge/Dart-0175C2?logo=dart&style=for-the-badge" />
+  <img alt="Flutter"       src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&style=for-the-badge" />
+  <img alt="Python"        src="https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge" />
+  <img alt="Linux"         src="https://img.shields.io/badge/Linux-FCC624?logo=linux&style=for-the-badge" />
+  <img alt="Android"       src="https://img.shields.io/badge/Android-3DDC84?logo=android&style=for-the-badge" />
+  <img alt="C++"           src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&style=for-the-badge" />
+  <img alt="C"             src="https://img.shields.io/badge/C-00599C?logo=c&style=for-the-badge" />
+</p>
 
 ---
 
 ## 📫 Connect with me
-- **GitHub**: [Ma7moudSelmy](https://github.com/Ma7moudSelmy)  
-- **YouTube**: [@Ma7moudSelmy](https://www.youtube.com/@Ma7moudSelmy)  
-- **LinkedIn**: [mahmoud-selmy-862162335](https://www.linkedin.com/in/mahmoud-selmy-862162335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- **Codeforces**: [Ma7moudSelmy1](https://codeforces.com/profile/Ma7moudSelmy1)  
 
----
-
-*Enjoy the ride 🚀*  
+<p align="center">
+  <a href="https://github.com/Ma7moudSelmy">GitHub</a> •  
+  <a href="https://www.youtube.com/@Ma7moudSelmy">YouTube</a> •  
+  <a href="https://www.linkedin.com/in/mahmoud-selmy-862162335">LinkedIn</a> •  
+  <a href="https://codeforces.com/profile/Ma7moudSelmy1">Codeforces</a>
+</p>
