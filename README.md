@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://ma7moudselmy.github.io/dino-runner/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00B8D4&center=true&width=435&lines=Click+Here+To+Play+Dino+Game+🦖" alt="Dino Game" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00B8D4&center=true&width=435&lines=Click+to+Start+the+Fun+🦖" alt="Play Now" />
   </a>
 </p>
 
