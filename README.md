@@ -55,11 +55,3 @@
 </p>
 
 ---
-
-### 🚀 Projects
-- **NTI Final Project**  
-  <a href="https://github.com/Ma7moudSelmy/NTI-final-project">🔗 GitHub Link</a>  
-  تطبيق Flutter بسيط لتوليد وإدارة كلمات المرور
-
----
-
