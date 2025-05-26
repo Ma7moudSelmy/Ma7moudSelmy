@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="250" />
-</p>
-
 <h1 align="center" dir="rtl">
   وَلَقَدْ مَنَنَّا عَلَيْكَ مَرَّةً أُخْرَىٰٓ  
   <br/>
@@ -10,14 +6,6 @@
 
 <h2 align="center">Hi 👋, I'm Ma7moud Selmy</h2>
 <h4 align="center"><i>A passionate Mobile Application developer from Egypt</i></h4>
-
----
-
-<p align="center">
-  <a href="https://ma7moudselmy.github.io/dino-runner/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00B8D4&center=true&width=435&lines=Click+to+Start+the+Fun+🦖" alt="Play Now" />
-  </a>
-</p>
 
 ---
 
