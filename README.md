@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZvaDdmbTVwNzFjcGNweGlqZXpuM21iOTJmYThzMHd4MzlzaDNnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HyOOyynWxMxig/giphy.gif" alt="Loading" width="250"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZvaDdmbTVwNzFjcGNweGlqZXpuM21iOTJmYThzMHd4MzlzaDNnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HyOOyynWxMxig/giphy.gif" alt="Loading" width="300"/>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ### 📫 Contact Me  
 <p align="center">
-  <a href="mailto:Ma7moud.m.selmy1@gmail.com">📧 Ma7moud.m.selmy1@gmail.com</a>
+  📧 Ma7moud.m.selmy1@gmail.com
 </p>
 
 ---
