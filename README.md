@@ -5,10 +5,15 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/Ma7moudSelmy/Ma7moudSelmy/assets/139727434/0e7d27d1-b1fb-4e34-9d80-06a2cf5ba711" alt="Loading Banner" width="250"/>
+  <img src="https://raw.githubusercontent.com/Ma7moudSelmy/Ma7moudSelmy/main/assets/loading-banner.gif" alt="Loading Banner" width="250"/>
 </p>
 
-<h2 align="center">Hi 👋, I'm Ma7moud Selmy</h2>
+<h2 align="center">
+  <a href="#">
+    <span style="display:inline-block; animation: floatName 2s ease-in-out infinite;">Hi 👋, I'm Ma7moud Selmy</span>
+  </a>
+</h2>
+
 <h4 align="center"><i>A passionate Mobile Application developer from Egypt</i></h4>
 
 ---
