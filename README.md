@@ -39,6 +39,12 @@
   <a href="https://codeforces.com/profile/Ma7moudSelmy1" target="_blank"> 
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /> 
   </a> 
+  <a href="https://wa.me/201098494030" target="_blank"> 
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
+  </a> 
+  <a href="https://www.facebook.com/share/1EFVuHVECn/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> 
+  </a>
 </p> 
  
 --- 
@@ -52,4 +58,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" width="40" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" /> 
-</p> 
+</p>
