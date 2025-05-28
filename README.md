@@ -3,15 +3,15 @@
   <br/> 
   <small>(طه - 37)</small> 
 </h1> 
-  
+
 <p align="center"> 
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZvaDdmbTVwNzFjcGNweGlqZXpuM21iOTJmYThzMHd4MzlzaDNnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HyOOyynWxMxig/giphy.gif" alt="Loading" width="300"/> 
 </p> 
- 
+
 <p align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+I%27m+Ma7moud+Selmy" alt="Typing SVG" /> 
 </p> 
- 
+
 --- 
  
 ### 👨‍💻 About Me 
