@@ -16,7 +16,7 @@
  
 ### 👨‍💻 About Me 
 <p align="center"> 
-  A passionate Mobile Application developer from Egypt 
+  Mobile App Developer specializing in Flutter currently a third-year Business Information Systems student. Passionate about creating user-friendly and creative mobile apps and always working on improving my skills and staying updated with the latest in mobile development
 </p> 
  
 --- 
