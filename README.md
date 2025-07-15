@@ -30,19 +30,19 @@
  
 ### 🌐 Connect with Me   
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/mahmoud-selmy-862162335" target="_blank"> 
+  <a href="https://www.linkedin.com/in/mahmoud-selmy-862162335" target="_blank" rel="noopener noreferrer"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a> 
-  <a href="https://www.youtube.com/@Ma7moudSelmy" target="_blank"> 
+  <a href="https://www.youtube.com/@Ma7moudSelmy" target="_blank" rel="noopener noreferrer"> 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> 
   </a> 
-  <a href="https://codeforces.com/profile/Ma7moudSelmy1" target="_blank"> 
+  <a href="https://codeforces.com/profile/Ma7moudSelmy1" target="_blank" rel="noopener noreferrer"> 
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /> 
   </a> 
-  <a href="https://wa.me/201098494030" target="_blank"> 
+  <a href="https://wa.me/201098494030" target="_blank" rel="noopener noreferrer"> 
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
   </a> 
-  <a href="https://www.facebook.com/share/1EFVuHVECn/" target="_blank"> 
+  <a href="https://www.facebook.com/share/1EFVuHVECn/" target="_blank" rel="noopener noreferrer"> 
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> 
   </a>
 </p> 
