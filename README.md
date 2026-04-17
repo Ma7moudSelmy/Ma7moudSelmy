@@ -28,7 +28,7 @@
 
 <p align="center">
 Mobile App Developer specializing in Flutter <br/>
-Currently a third-year Business Information Systems student <br/>
+Currently a fourth-year Business Information Systems student <br/>
 Focused on building scalable & clean mobile applications <br/>
 Always improving, always learning
 </p>
