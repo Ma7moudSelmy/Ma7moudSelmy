@@ -1,63 +1,89 @@
-<h1 align="center" dir="rtl">
-  وَلَقَدْ مَنَنَّا عَلَيْكَ مَرَّةً أُخْرَىٰٓ
-  <br/>
-  <small>(طه - 37)</small>
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Ma7moud+Selmi;Flutter+Developer;Creative+Mind+Builder" />
 </h1>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+<h3 align="center"> 
+  وَلَقَدْ مَنَنَّا عَلَيْكَ مَرَّةً أُخْرَىٰٓ  
+  <br/> 
+  <small>(طه - 37)</small> 
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Ma7moud+Selmy;Mobile+App+Developer;Flutter+Enthusiast" alt="Typing SVG" />
+  <img src="https://media3.giphy.com/media/HyOOyynWxMxig/giphy.gif" width="300"/>
 </p>
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZvaDdmbTVwNzFjcGNweGlqZXpuM21iOTJmYThzMHd4MzlzaDNnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HyOOyynWxMxig/giphy.gif" alt="Loading" width="250"/>
-</p>
+---
 
-<h3 align="center">About Me</h3>
-<p align="center">
-  Mobile App Developer specializing in Flutter currently a third-year Business Information Systems student. Passionate about creating user-friendly and creative mobile apps and always working on improving my skills and staying updated with the latest in mobile development
-</p>
+## 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+Mobile App Developer specializing in Flutter <br/>
+Currently a third-year Business Information Systems student <br/>
+Passionate about creating user-friendly and creative mobile apps <br/>
+Always working on improving my skills and staying updated with the latest in mobile development
 </p>
 
-<h3 align="center">Languages & Tools</h3>
+---
+
+## 🚀 What I'm Doing
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,python,linux,android,c,cpp&theme=dark&perline=7" alt="My Skills" />
+⚡ Building modern Flutter apps <br/>
+🧠 Improving problem solving (Codeforces) <br/>
+🔥 Learning advanced architecture & state management <br/>
+🎯 Working on real-world projects
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ma7moudSelmy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Ma7moudSelmy&theme=tokyonight&hide_border=true&background=0D1117"/>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=dart,flutter,python,linux,android,c,cpp&theme=dark" />
+</p>
+
+---
+
+## 🌐 Connect with Me   
+
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/mahmoud-selmy-862162335">
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a> 
+  <a href="https://www.youtube.com/@Ma7moudSelmy">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a> 
+  <a href="https://codeforces.com/profile/Ma7moudSelmy1">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a> 
+  <a href="https://wa.me/201098494030">
+    <img src="https://img.shields.io/badge/WhatsApp-00FF9C?style=for-the-badge&logo=whatsapp&logoColor=black" />
+  </a> 
+  <a href="https://www.facebook.com/share/1EFVuHVECn/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
+
+## 📫 Contact Me   
+
+<p align="center"> 
+  📧 <a href="mailto:Ma7moud.m.selmy1@gmail.com">Ma7moud.m.selmy1@gmail.com</a> 
 </p>
 
-<h3 align="center">Connect with Me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/mahmoud-selmy-862162335" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.youtube.com/@Ma7moudSelmy" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://codeforces.com/profile/Ma7moudSelmy1" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-  <a href="https://wa.me/201098494030" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://www.facebook.com/share/1EFVuHVECn/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="mailto:Ma7moud.m.selmy1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=120&section=footer"/>
 </p>
