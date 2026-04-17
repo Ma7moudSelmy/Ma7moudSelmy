@@ -1,14 +1,14 @@
-<!-- TOP GLOW HEADER -->
+<!-- HEADER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Ma7moud%20Selmi&fontSize=50&color=0:000000,50:0f2027,100:00F7FF&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Ma7moud%20Selmi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<!-- CYBER TYPING -->
+<!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Crafting+Clean+Mobile+Experiences;Obsessed+With+Growth+%26+Details"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;I+Build+Clean+Experiences;Always+Leveling+Up"/>
 </p>
 
-<!-- QURAN VERSE -->
+<!-- QUOTE -->
 <h3 align="center">
   وَلَقَدْ مَنَنَّا عَلَيْكَ مَرَّةً أُخْرَىٰٓ  
   <br/>
@@ -17,9 +17,9 @@
 
 ---
 
-<!-- HERO GIF (subtle premium) -->
+<!-- SUBTLE GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 </p>
 
 ---
@@ -29,21 +29,35 @@
 <p align="center">
 Mobile App Developer specializing in Flutter <br/>
 Currently a third-year Business Information Systems student <br/>
-Passionate about building clean, user-friendly mobile apps <br/>
-Always improving and staying updated with modern technologies
+Focused on building scalable & clean mobile applications <br/>
+Always improving, always learning
 </p>
 
 ---
 
-## ⚡ Live Presence
+## ⚡ Tech Arsenal
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ma7moudSelmy&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,python,linux,androidstudio,vscode,git,github,cpp,c&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/State%20Management-Bloc-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API%20Handling-REST-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Architecture-MVVM-00F7FF?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🧠 Contribution Snake (Dynamic)
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ma7moudSelmy&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+---
+
+## 🧠 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -51,33 +65,17 @@ Always improving and staying updated with modern technologies
 
 ---
 
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,python,linux,android,c,cpp&theme=dark"/>
-</p>
-
----
-
-## 🎬 YouTube (My Content)
-
-<p align="center">
-  <a href="https://www.youtube.com/@Ma7moudSelmi">
-    <img src="https://img.shields.io/badge/Watch%20My%20Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.youtube.com/vi/VIDEO_ID_HERE/maxresdefault.jpg" width="400"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="mailto:Ma7moud.m.selmy1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
   <a href="https://www.linkedin.com/in/mahmoud-selmy-862162335">
     <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="https://www.youtube.com/@Ma7moudSelmi">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="https://codeforces.com/profile/Ma7moudSelmy1">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
@@ -85,22 +83,11 @@ Always improving and staying updated with modern technologies
   <a href="https://wa.me/201098494030">
     <img src="https://img.shields.io/badge/WhatsApp-00FF9C?style=for-the-badge&logo=whatsapp&logoColor=black"/>
   </a>
-  <a href="https://www.facebook.com/share/1EFVuHVECn/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
-  </a>
 </p>
 
 ---
 
-## 📫 Contact
-
+<!-- FOOTER -->
 <p align="center">
-  📧 Ma7moud.m.selmy1@gmail.com
-</p>
-
----
-
-<!-- BOTTOM GLOW -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00F7FF,100:000000&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F7FF,100:007BFF&section=footer"/>
 </p>
