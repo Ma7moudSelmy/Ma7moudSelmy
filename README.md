@@ -71,7 +71,7 @@ Always improving, always learning
   <a href="mailto:Ma7moud.m.selmy1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
-  <a href="https://www.linkedin.com/in/mahmoud-selmy-862162335">
+  <a href="https://www.linkedin.com/in/mahmoud-selmi-862162335">
     <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="https://www.youtube.com/@Ma7moudSelmi">
